@@ -8,6 +8,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hola  a Todos!</Text>
+      <Text>Hola  amigos !</Text>
       <StatusBar style="auto" />
     </View>
   );
